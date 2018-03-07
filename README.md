@@ -5,7 +5,7 @@ Simple library to establish two-way communication between two networked devices 
 
 #### python3 packages
 ```
-pip3 install requirements.txt
+pip3 install -r requirements.txt
 ```
 
 #### homebrew
