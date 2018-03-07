@@ -8,7 +8,7 @@ Simple library to establish two-way communication between two networked devices 
 pip3 install requirements.txt
 ```
 
-#### homebrew requirements
-'''
+#### homebrew
+```
 brew install portaudio
-'''
+```
